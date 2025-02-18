@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate data scientist, machine learning enthusia
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in Engineering** from **IIT Indore**
+- 🎓 **B.Tech in Engineering Metallurgical Engineering and Material Science** from **IIT Indore**
 - 🔍 **Areas of Expertise**: Data Science, Machine Learning, Deep Learning, Data Analysis, SQL
 - 💼 **Current Focus**: Data Science, Machine Learning, and Consulting
 - 🌱 **Learning**: Continuously improving my skills in AI/ML, data analytics, and cloud platforms
@@ -50,16 +50,7 @@ A machine learning model that classifies emails into spam or not spam with high 
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vedant-pimple/)
-- 📧 Email: [vedant@example.com](mailto:vedant@example.com)
-- 🌐 [Website](https://www.vedantpimple.com)
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Winner of XYZ Data Science Competition** (2024)
-- 🏅 **Top 10% in Kaggle Competitions**
-- 🎓 Completed **Deep Learning Specialization** from Coursera
+- 📧 Email: [vedantpimple1775@gmail.com](mailto:vedantpimple1775@gmail.com)
 
 ---
 
