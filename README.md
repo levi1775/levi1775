@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate data scientist, machine learning enthusia
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in Engineering** from **IIT Indore**
+- 🎓 **B.Tech in Metallurgical Engineering and Material Science** from **IIT Indore**
 - 🔍 **Areas of Expertise**: Data Science, Machine Learning, Deep Learning, Data Analysis, SQL
 - 💼 **Current Focus**: Data Science, Machine Learning, and Consulting
 - 🌱 **Learning**: Continuously improving my skills in AI/ML, data analytics, and cloud platforms
