@@ -1,28 +1,72 @@
-# Hi 👋, I'm Vedant
+# 👋 Hello, I'm **Vedant Pimple**!
 
-**Teaching machines to learn, one byte at a time**
-
-Welcome to my Profile. This is an overview of all the work I have done and plan to do.
+Welcome to my GitHub! I'm a passionate data scientist, machine learning enthusiast, and problem solver. I love working with data to uncover insights and build impactful solutions. 
 
 ---
 
-## 📬 Contact Me
-*Hit me up on any platform from my Linktree or the ones mentioned below if you want to chat!*
+## 🚀 About Me
 
-🔗 **[My Linktree](https://your-linktree-url-here)**
-
-### 🌍 Other Platforms:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
-[![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=for-the-badge&logo=weightsandbiases&logoColor=black)](https://wandb.ai/yourprofile)
-[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/yourchannel)
-
----
-⭐ **Repositories:**  [![GitHub Repo](https://img.shields.io/github/stars/VedantPimple?style=social)](https://github.com/VedantPimple?tab=repositories)
-
-👀 **Profile Views:** ![Profile views](https://komarev.com/ghpvc/?username=VedantPimple&color=blue)
+- 🎓 **B.Tech in Engineering** from **IIT Indore**
+- 🔍 **Areas of Expertise**: Data Science, Machine Learning, Deep Learning, Data Analysis, SQL
+- 💼 **Current Focus**: Data Science, Machine Learning, and Consulting
+- 🌱 **Learning**: Continuously improving my skills in AI/ML, data analytics, and cloud platforms
 
 ---
 
+## 🔧 Technologies & Tools
+
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### Cloud & Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Tools & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🔍 Projects
+
+### 📊 [**ResumeInsight2**](https://github.com/vedantpimple/ResumeInsight2)
+A **Resume Parser** and **Job Recommendation System** that categorizes resumes and suggests job recommendations based on extracted information.
+
+### 🧠 [**PLANT-AI**](https://github.com/vedantpimple/PLANT-AI)
+**Recognition of Plant Diseases** by leaf image classification. Detects 38 types of plant diseases from 14 different plants using CNNs.
+
+### 🧹 [**Spam Detector**](https://github.com/vedantpimple/Spam-Detector)
+A machine learning model that classifies emails into spam or not spam with high accuracy.
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vedant-pimple/)
+- 📧 Email: [vedant@example.com](mailto:vedant@example.com)
+- 🌐 [Website](https://www.vedantpimple.com)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner of XYZ Data Science Competition** (2024)
+- 🏅 **Top 10% in Kaggle Competitions**
+- 🎓 Completed **Deep Learning Specialization** from Coursera
+
+---
+
+## 📈 GitHub Stats
+
+![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantpimple&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
