@@ -65,7 +65,7 @@ A machine learning model that classifies emails into spam or not spam with high 
 
 ## 📈 GitHub Stats
 
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantpimple&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=levi1775&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 ---
 
