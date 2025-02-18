@@ -1,56 +1,72 @@
-## 🌟 Hey there, I'm Vedant Pimple! 🚀
+# 👋 Hello, I'm **Vedant Pimple**!
 
-### 🤖 Machine Learning | Data Science | AI Enthusiast
-
-> "Transforming Data into Insights, One Model at a Time."
+Welcome to my GitHub! I'm a passionate data scientist, machine learning enthusiast, and problem solver. I love working with data to uncover insights and build impactful solutions. 
 
 ---
 
-### 📌 About Me
-🧑‍🎓 **B.Tech at IIT Indore**  
-🛠️ Skilled in **Machine Learning, Deep Learning & Data Science**  
-📊 Passionate about **Data Analytics, SQL & Business Intelligence**  
-🔍 Exploring **Recommendation Systems, NLP & AI Research**  
-☁️ Currently upskilling in **Cloud Computing & Big Data Technologies**  
+## 🚀 About Me
+
+- 🎓 **B.Tech in Engineering** from **IIT Indore**
+- 🔍 **Areas of Expertise**: Data Science, Machine Learning, Deep Learning, Data Analysis, SQL
+- 💼 **Current Focus**: Data Science, Machine Learning, and Consulting
+- 🌱 **Learning**: Continuously improving my skills in AI/ML, data analytics, and cloud platforms
 
 ---
 
-### 🛠️ Tech Stack
+## 🔧 Technologies & Tools
 
-#### 🚀 **Languages & Tools:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 📚 **ML & AI Frameworks:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+#### ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-#### 🛠️ **Libraries & Tools:**
-`Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `Seaborn` • `OpenCV` • `NLTK` • `BeautifulSoup`
+#### Cloud & Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🌍 **Platforms & DevOps:**
-`Jupyter Notebook` • `Google Colab` • `Power BI` • `Tableau` • `Git` • `Docker`
-
----
-
-### 🚀 Featured Projects
-
-#### 🌿 **PLANT-AI**  
-✅ **Leaf Image Classification for Disease Detection**  
-📈 Achieved **98.42% test accuracy** using **VGG16 & ResNet34**  
-🔗 [GitHub Repo](#) | 🎥 [Live Demo](#)
-
-#### 📄 **ResumeInsight2**  
-📌 **AI-Powered Resume Parser & Job Recommendation System**  
-🛠️ Built using **ML & NLP techniques**  
-🔗 [GitHub Repo](#)
+#### Tools & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-### 🌍 Let's Connect!
+## 🔍 Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantpimple/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedantpimple)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+### 📊 [**ResumeInsight2**](https://github.com/vedantpimple/ResumeInsight2)
+A **Resume Parser** and **Job Recommendation System** that categorizes resumes and suggests job recommendations based on extracted information.
+
+### 🧠 [**PLANT-AI**](https://github.com/vedantpimple/PLANT-AI)
+**Recognition of Plant Diseases** by leaf image classification. Detects 38 types of plant diseases from 14 different plants using CNNs.
+
+### 🧹 [**Spam Detector**](https://github.com/vedantpimple/Spam-Detector)
+A machine learning model that classifies emails into spam or not spam with high accuracy.
 
 ---
 
-🌟 **If you like my work, give my repositories a ⭐!**
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vedant-pimple/)
+- 📧 Email: [vedant@example.com](mailto:vedant@example.com)
+- 🌐 [Website](https://www.vedantpimple.com)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner of XYZ Data Science Competition** (2024)
+- 🏅 **Top 10% in Kaggle Competitions**
+- 🎓 Completed **Deep Learning Specialization** from Coursera
+
+---
+
+## 📈 GitHub Stats
+
+![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantpimple&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
