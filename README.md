@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lev1775/your-repo/main/your-image.jpg" height="200"/>
+  <img src="assests/satoru_gojo.png" height="200"/>
 </p>
 
 
