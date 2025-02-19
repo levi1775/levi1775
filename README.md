@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/your-image.jpg" height="200"/>
+  <img src="https://raw.githubusercontent.com/lev1775/your-repo/main/your-image.jpg" height="200"/>
 </p>
 
 
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=VedantPimple&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=levi1775&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Age-22-blue" />
