@@ -18,16 +18,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedant-pimple-523a65228/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/vedant_pimple_12/?hl=en" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
   </a>
   <a href="https://www.kaggle.com/vedantpimple" target="_blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3628737-3030171.png" alt="Kaggle" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="40" width="80" />
   </a>
   <a href="mailto:vedantpimple@example.com">
-    <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" alt="Gmail" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" width="40" alt="Gmail" />
   </a>
 </p>
 
