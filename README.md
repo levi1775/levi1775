@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/satoru_gojo.png" height="200"/>
+  <img src="assests/satoru_gojo.png" height="200"/ style="background-color:#0D1117;">
 </p>
 
 
