@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://source.unsplash.com/800x400/?technology,coding" height="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Code_icon.png" height="200"/>
 </p>
 
 
