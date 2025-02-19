@@ -61,9 +61,6 @@
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></code>
   <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png"></code>
-  <code><img height="50" src="https://www.nltk.org/images/logo.png"></code>
-  <code><img height="50" src="https://spacy.io/static/social_media.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/static/logo-light.png"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></code>
@@ -71,7 +68,7 @@
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
   <code><img height="50" src="assests/nltk.png"></code>
   <code><img height="50" src="assests/spacy.png"></code>
-  <code><img height="50" src="assests/originlab.png"></code>
+  <code><img height="50" src="assests/origin.png"></code>
   <code><img height="50" src="assests/ms_office.png"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
