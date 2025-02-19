@@ -17,9 +17,20 @@
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vedantpimple/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin_vedant" height="30" width="40" /></a>
-  <a href = "mailto: vedantpimple@example.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vedant-pimple-523a65228/" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/vedant_pimple_12/?hl=en" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/vedantpimple" target="_blank">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3628737-3030171.png" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="mailto:vedantpimple@example.com">
+    <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" alt="Gmail" />
+  </a>
 </p>
+
 
 <p align="center">
   <em>
