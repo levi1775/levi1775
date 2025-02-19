@@ -17,19 +17,20 @@
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vedant-pimple-523a65228/" target="_blank">
+  <a href="https://www.linkedin.com/in/vedant-pimple-523a65228/" target="_blank" style="margin: 0 15px;">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/vedant_pimple_12/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/vedant_pimple_12/?hl=en" target="_blank" style="margin: 0 15px;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://www.kaggle.com/vedantpimple" target="_blank">
+  <a href="https://www.kaggle.com/vedantpimple" target="_blank" style="margin: 0 15px;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="40" width="80" />
   </a>
-  <a href="mailto:vedantpimple@example.com">
+  <a href="mailto:vedantpimple@example.com" style="margin: 0 15px;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" width="40" alt="Gmail" />
   </a>
 </p>
+
 
 
 <p align="center">
