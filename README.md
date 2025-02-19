@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Code_icon.png" height="200"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/your-image.jpg" height="200"/>
 </p>
+
 
 
 <p align="left"> 
