@@ -1,88 +1,65 @@
-# 👋 Hello, I'm **Vedant Pimple**!
+<p align="center">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
+<br>
 
-Welcome to my GitHub! I'm a passionate data scientist, machine learning enthusiast, and problem solver. I love working with data to uncover insights and build impactful solutions. 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=VedantPimple&color=brightgreen" alt="watching_count" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />
+<img src="https://img.shields.io/badge/Lives-India-success" />
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vedant Pimple</h1>
+<h3 align="center">Data Scientist | Machine Learning Engineer | Business Analyst</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/vedantpimple/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin_vedant" height="30" width="40" /></a>  
+<a href="https://www.kaggle.com/vedantpimple" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_vedant" height="30" width="40" /></a>
+<a href = "mailto: vedantpimple@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
 
----
+<p align="center">
+  <em>
+    Hello, I am Vedant Pimple, a <b>Data Science Enthusiast</b> currently exploring advanced techniques in <b>Machine Learning</b> and <b>Data Analytics</b>.<br>
+    Passionate about solving complex problems and leveraging data-driven insights.
+  </em>
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Data is the new oil!"</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+<br>
 
-## 🚀 About Me
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-- 🎓 **B.Tech in Metallurgical Engineering and Material Science** from **IIT Indore**
-- 🔍 **Areas of Expertise**: Data Science, Machine Learning, Deep Learning, Data Analysis, SQL
-- 💼 **Current Focus**: Data Science, Machine Learning, and Consulting
-- 🌱 **Learning**: Continuously improving my skills in AI/ML, data analytics, and cloud platforms
+✔ I’m currently working on **Recommendation Systems and NLP applications**<br>
+✔ I’m proficient in **SQL, Python, Machine Learning, Deep Learning, and Data Analytics**<br>
+✔ I’m looking to collaborate on **Data Science and AI projects**<br>
+✔ Fun fact: *I believe the best way to learn is by doing!* 😎<br><br>
 
----
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="left">
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <code><img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+</p>
+<hr>
 
-## 🚀 Technologies & Tools  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=VedantPimple&show_icons=true&locale=en&theme=chartreuse-dark" alt="vedant" width="410" />
+</p>
 
-### 🖥️ Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=VedantPimple&theme=juicyfresh&no-bg=true" /></p>
 
-### 🤖 Machine Learning & AI  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![NLTK](https://img.shields.io/badge/NLTK-026B77?style=for-the-badge&logo=python&logoColor=white)  
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge&logo=python&logoColor=white)  
+-----
+Credits: [Vedant Pimple](https://github.com/VedantPimple)
 
-### 📊 Data Analysis & Visualization  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-40B5A4?style=for-the-badge&logo=python&logoColor=white)  
-
-### ☁️ Cloud & Databases  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### 🛠️ Tools & Simulation Software  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
-![Origin Labs](https://img.shields.io/badge/Origin%20Labs-FF7F00?style=for-the-badge&logo=chartbar&logoColor=white)  
-![ImageJ](https://img.shields.io/badge/ImageJ-FFD700?style=for-the-badge&logo=python&logoColor=black)  
-
-### 📈 Business Intelligence & Office Tools  
-![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
-
-
-## 🔍 Projects
-
-### 📊 [**ResumeInsight2**](https://github.com/vedantpimple/ResumeInsight2)
-A **Resume Parser** and **Job Recommendation System** that categorizes resumes and suggests job recommendations based on extracted information.
-
-### 🧠 [**PLANT-AI**](https://github.com/vedantpimple/PLANT-AI)
-**Recognition of Plant Diseases** by leaf image classification. Detects 38 types of plant diseases from 14 different plants using CNNs.
-
-### 🧹 [**Spam Detector**](https://github.com/vedantpimple/Spam-Detector)
-A machine learning model that classifies emails into spam or not spam with high accuracy.
-
----
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/vedant-pimple/)
-- 📧 Email: [vedant@example.com](mailto:vedant@example.com)
-- 🌐 [Website](https://www.vedantpimple.com)
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Winner of XYZ Data Science Competition** (2024)
-- 🏅 **Top 10% in Kaggle Competitions**
-- 🎓 Completed **Deep Learning Specialization** from Coursera
-
----
-
-## 📈 GitHub Stats
-
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=levi1775&show_icons=true&count_private=true&hide_title=true&theme=radical)
-
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
+Last Edited on: 19/02/2025
