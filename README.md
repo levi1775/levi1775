@@ -96,6 +96,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=levi1775&theme=juicyfresh&no-bg=true" />
 
 -----
-%Credits: [Vedant Pimple](https://github.com/Levi1775)%
 
 Last Edited on: 19/02/2025
