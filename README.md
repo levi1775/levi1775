@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://source.unsplash.com/800x400/?technology,coding" height="200"/>
 </p>
-<br>
+
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=VedantPimple&color=brightgreen" alt="watching_count" />
