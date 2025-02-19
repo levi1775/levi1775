@@ -53,6 +53,7 @@
 ✔ Fun fact: *I love discovering hidden patterns in data!* 😎<br>
 
 <h2 align="center">🚀 Skills & Tools</h2>
+<h2 align="center">🛠️ Technical Skills & Tools</h2>
 <p align="left">
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
@@ -60,14 +61,17 @@
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></code>
   <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png"></code>
+  <code><img height="50" src="https://www.nltk.org/images/logo.png"></code>
+  <code><img height="50" src="https://spacy.io/static/social_media.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/static/logo-light.png"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></code>
   <code><img height="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/2/20/OriginLab_Logo.png"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/61/ImageJ_logo.png"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_2013-2019_logo.svg"></code>
+  <code><img height="50" src="https://www.originlab.com/images/OriginLogo.png"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ImageJ_logo.png"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Microsoft_Office_logo_%282019%E2%80%93present%29.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
@@ -77,7 +81,6 @@
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 </p>
-
 
 <hr>
 <p align="center">
