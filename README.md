@@ -69,10 +69,10 @@
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></code>
   <code><img height="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
-  <code><img height="50" src="assets/logos/nltk.png"></code>
-  <code><img height="50" src="assets/logos/spacy.png"></code>
-  <code><img height="50" src="assets/logos/originlab.png"></code>
-  <code><img height="50" src="assets/logos/ms_office.png"></code>
+  <code><img height="50" src="assests/logos/nltk.png"></code>
+  <code><img height="50" src="assests/logos/spacy.png"></code>
+  <code><img height="50" src="assests/logos/originlab.png"></code>
+  <code><img height="50" src="assests/logos/ms_office.png"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
