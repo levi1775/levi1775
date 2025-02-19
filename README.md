@@ -46,7 +46,8 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-### About Me:
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
 ✔ Call me: ***He/Him*** or ***Data Enthusiast*** 😊 <br>
 ✔ Currently working on **Deep Learning projects** 🧠<br>
 ✔ Open to collaboration on **AI/ML projects** 🚀<br>
