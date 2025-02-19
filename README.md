@@ -54,7 +54,7 @@
 ✔ Ask me anything about **SQL, Python, Machine Learning, and Data Analytics** 📊<br>
 ✔ Fun fact: *I love discovering hidden patterns in data!* 😎<br>
 
-<h2 align="center">🛠️ Technical Skills & Tools</h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
