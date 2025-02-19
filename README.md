@@ -1,4 +1,4 @@
-<p align="center" style="background-color:#0D1117;">
+<p align="center" style="background-color:#30363d;">
   <img src="assests/satoru_gojo.png" height="200"/">
 </p>
 
