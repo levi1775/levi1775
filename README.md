@@ -47,19 +47,24 @@
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></code>
   <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/NLTK_logo.png"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/SpaCy_logo.svg"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/79/LangChain_Logo.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></code>
   <code><img height="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OriginLab_Logo.png"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/ImageJ_Logo.png"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/2/20/OriginLab_Logo.png"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/61/ImageJ_logo.png"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_2013-2019_logo.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+  <code><img height="50" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 </p>
+
 
 <hr>
 <p align="center">
