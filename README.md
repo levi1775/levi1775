@@ -63,6 +63,7 @@
   <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png"></code>
   <code><img height="50" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg"></code>
+  <code><img height="50" src="https://media.licdn.com/dms/image/D4D12AQGQQFHNeQJRgQ/article-cover_image-shrink_720_1280/0/1711873462713?e=2147483647&v=beta&t=u5ls9p4LHatE_PxtiNIm23lIFGMaAjp-XHdV7TwwDxE"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></code>
