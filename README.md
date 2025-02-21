@@ -79,8 +79,6 @@
   <code><img height="50" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Atom_1.0_icon.png/900px-Atom_1.0_icon.png?20160921001112"></code>
-
 
 </p>
 
