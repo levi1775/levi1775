@@ -70,7 +70,7 @@
   <code><img height="50" src="assests/nltk.png"></code>
   <code><img height="50" src="assests/spacy.png"></code>
   <code><img height="50" src="assests/origin.png"></code>
-  <code><img height="50" src="https://logowik.com/content/uploads/images/office-icon8754.logowik.com.webp"></code>
+  <code><img height="50" src="assests/ms_office.png"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
