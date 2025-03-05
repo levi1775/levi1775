@@ -37,7 +37,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Vedant Pimple, a <b>final year undergraduate</b> from <a href="https://www.iiti.ac.in/">Indian Institute of technology(IIT), Indore</a>. <br>
+    Hello, I am Vedant Pimple, a <b>final year undergraduate</b> from <a href="https://www.iiti.ac.in/">Indian Institute of Technology(IIT), Indore</a>. <br>
     A <b>passionate self-learner</b> 🤖 and a <b>Machine Learning & Data Science Enthusiast</b> 📊, <br>
     who is obsessed with uncovering hidden patterns in data and leveraging AI to solve real-world problems.
   </em>
