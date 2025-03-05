@@ -37,12 +37,16 @@
 
 <p align="center">
   <em>
-    Hello, I am Vedant Pimple, a <b>data science enthusiast</b> with a keen interest in <b>machine learning</b> and <b>data analytics</b>. <br>
-    Passionate about uncovering insights from data and solving complex problems using AI-driven approaches.
+    Hello, I am Vedant Pimple, a <b>final year undergraduate</b> from <a href="https://www.iiti.ac.in/">IIT Indore</a>. <br>
+    A <b>passionate self-learner</b> 🤖 and a <b>Machine Learning & Data Science Enthusiast</b> 📊, <br>
+    who is obsessed with uncovering hidden patterns in data and leveraging AI to solve real-world problems.
   </em>
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Every dataset tells a story, you just need to listen!"</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> 
+  <b><i align="center">Thought: "Data is the new oil, but only if refined properly!"</i></b> 
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
+
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
